@@ -1,6 +1,6 @@
 # M. Vignesh Venkataraman
 
-#### Pdf version available [here](https://drive.google.com/file/d/17Vr0Y4c-u3zHBRGr2Niwul4jkwLU6Iu3/view?usp=sharing)
+### Full Pdf version available [here](https://drive.google.com/file/d/17Vr0Y4c-u3zHBRGr2Niwul4jkwLU6Iu3/view?usp=sharing)
 * Email: mvenkataraman@ph.iitr.ac.in
 * Github: VIGNESHinZONE
 
