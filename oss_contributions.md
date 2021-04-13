@@ -1,11 +1,12 @@
-## [Deepchem](https://github.com/deepchem/deepchem)
+## [Deepchem/Deepchem](https://github.com/deepchem/deepchem)
 
 | S.No| Description   | Status | Link |
 | ----|:-------------:| ------:| ---:|
 | 1   | Implementation of the LCNN Model with tests | Merged | [#2405](https://github.com/deepchem/deepchem/pull/2405)|
 | 2   | Added the Platinum adsoroption Dataset into Molnet and Implemented the LCNN featuriser using graph matching algorithms     | Merged | [#2287](https://github.com/deepchem/deepchem/pull/2287)|
 
-## [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)
+
+## [AWSLabs/DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)
 
 | S.No| Description   | Status | Link |
 | ----|:-------------:| ------:| ---:|
