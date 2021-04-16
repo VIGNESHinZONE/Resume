@@ -4,6 +4,11 @@
 | ----|:-------------:| ------:| ---:|
 | 1   | Implementation of the LCNN Model with tests | Merged | [#2405](https://github.com/deepchem/deepchem/pull/2405)|
 | 2   | Added the Platinum adsoroption Dataset into Molnet and Implemented the LCNN featuriser using graph matching algorithms     | Merged | [#2287](https://github.com/deepchem/deepchem/pull/2287)|
+| 3   | Utility functions for Molecular GraphConv Models | Open | [#2484](https://github.com/deepchem/deepchem/pull/2484)|
+| 4   | Wrapper Function for the MEGNET Model | Open | [#2485](https://github.com/deepchem/deepchem/pull/2485)|
+| 5   | Bug fix in Mol2Vec, due to migration of gensim 4.0.1 | Open | [#2486](https://github.com/deepchem/deepchem/pull/2486)|
+
+
 
 
 ## [AWSLabs/DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)
