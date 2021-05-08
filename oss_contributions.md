@@ -7,7 +7,8 @@
 | 3   | Utility functions for Molecular GraphConv Models | Merged | [#2484](https://github.com/deepchem/deepchem/pull/2484)|
 | 4   | Wrapper Function for the MEGNET Model | Open | [#2485](https://github.com/deepchem/deepchem/pull/2485)|
 | 5   | Bug fix in Mol2Vec, due to migration of gensim 4.0.1 | Merged | [#2486](https://github.com/deepchem/deepchem/pull/2486)|
-| 6   | Adding PAGTN featurisation support | Open | [#2496](https://github.com/deepchem/deepchem/pull/2496)|
+| 6   | Adding PAGTN featurisation support | Merged | [#2496](https://github.com/deepchem/deepchem/pull/2496)|
+| 7   | Adding PAGTN Wrapper Function from DGL-Lifesci| Open | [#2508](https://github.com/deepchem/deepchem/pull/2508)|
 
 
 
