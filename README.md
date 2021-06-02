@@ -13,7 +13,8 @@
   
 ---
 ## Relavant Experience
-### Applied AI engineer, Otsuka Corp. Japan
+
+### Computer Vision Intern, Otsuka Corp. Japan
 #### June 2021 - August 2021, Remote
   * Work Towards building a object detection model.
 
