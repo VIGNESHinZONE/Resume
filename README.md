@@ -14,14 +14,6 @@
 ---
 ## Relavant Experience
 
-### Computer Vision Intern, Otsuka Corp. Japan
-#### June 2021 - August 2021, Remote
-  * Work Towards building a object detection model.
-
-### Google Summer of Code, Deepchem(Open Chemistry)
-#### June 2021 - August 2021, Remote
-  * Work on building JaxModel, which provides a high-level API for training and deploying Machine Learning Models using JAX framework. The main goal for JaxModel will be to provide an API for building, training, and testing deep learning models which are compatible with the existing DeepChem code base which already provides features like Molnet, Featurisers, Splitters, Transformers, and other deep learning infrastructures. During the period of GSOC, I will also be adding a notebook tutorial specifying the usage of JaxModel. If time permits, In the same tutorial I will also use an advanced JAX-based model preferably (Graph-based model or Physics Informed Neural Networks). This will be the beginning of implementing JAX-based models into the main DeepChem repo.
-
 ### Internship at CRIS Lab, Columbia University
 #### Dec 2020 - Present, Remote
   * Collaborated with Prof. Venkat's group, on developing new Drug Discovery methods using existing Molecular Scaffolds that already follow the underlying chemistry. So far have we have been researching the existing RL-based approach and Molecular Transformer to combine different groups of scaffolds as a Reaction Prediction task. Conduct weekly meetings, discussing the progress and potential research ideas.We are currently working with both graph and string representation of Molecules, SMILES.
