@@ -8,7 +8,7 @@
 | 4   | Wrapper Function for the MEGNET Model | Open :bulb: | [#2485](https://github.com/deepchem/deepchem/pull/2485)|
 | 5   | Bug fix in Mol2Vec, due to migration of gensim 4.0.1 | Merged :heavy_check_mark: | [#2486](https://github.com/deepchem/deepchem/pull/2486)|
 | 6   | Adding PAGTN featurisation support | Merged :heavy_check_mark: | [#2496](https://github.com/deepchem/deepchem/pull/2496)|
-| 7   | Adding PAGTN Wrapper Function from DGL-Lifesci| Open :bulb: | [#2508](https://github.com/deepchem/deepchem/pull/2508)|
+| 7   | Adding PAGTN Wrapper Function from DGL-Lifesci| Merged :heavy_check_mark: | [#2508](https://github.com/deepchem/deepchem/pull/2508)|
 
 
 
