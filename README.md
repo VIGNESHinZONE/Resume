@@ -13,6 +13,19 @@
   
 ---
 ## Relavant Experience
+### AI Engineer, Otsuka Corp. Japan
+#### June 2021 - August 2021, Remote
+* Built an end-to-end face recognition system used for attendance monitoring connected that could be connected to Vido Surveillance Camera or WebCam. Deployed the full pipeline in AWS server using Flask and also provided a RestAPI for local prototyping. Connected the final application to Tableau for further visualization.
+
+* In the Later half, we expanded the system to include Anamoly Detection with the model using unsupervised training (Multi-instance Learning).
+
+### Google Summer of Code, Deepchem(Open Chemistry)
+#### June 2021 - August 2021, Remote
+* Integrated the Jax framework into Deepchem codebase which interacts with the existing modules suited for made for bio-informatics and analytics.
+
+* Revamp the CI/CD pipeline for the organisation into three separate setups (also followed by libraries like Huggingface, Atari, etc ) due to the dependency inconsistencies with Tensorflow and other libraries, etc.
+
+* Built a general framework for solving differential equations using Neural Networks with the help of the Jax framework built during the same period inspired by Physics Informed Neural Networks.
 
 ### Internship at CRIS Lab, Columbia University
 #### Dec 2020 - Present, Remote
